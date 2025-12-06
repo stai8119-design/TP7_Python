@@ -1,0 +1,26 @@
+Rapport des notes
+Nombre d'étudiants : 8
+Notes originales : [12, 9, 15, 8, 17, 13, 19, 10]
+Notes après bonus (+2) : [14, 11, 17, 10, 19, 15, 20, 12]
+Min/Max (après bonus) : (10, 20)
+Top 3 des notes (après bonus) : [20, 19, 17]
+
+Moyenne initiale : 12.88
+Moyenne après bonus : 14.75
+Moyenne normalisée (sur 100) : 73.75
+Notes >= 14 (validées) : 5 étudiants
+
+Classification des notes (Normalisées sur 100)
+Validation (>= 70.00) : 5 étudiants
+Rattrapage (>= 50.00) : 3 étudiants
+Échec (< 50.00) : 0 étudiants
+
+Détails par étudiant (Sur 20 | Normalisé sur 100):
+Étudiant 01 - Initiale: 12.00, Bonus: 14.00, Normalisée: 70.00 (Validation)
+Étudiant 02 - Initiale: 9.00, Bonus: 11.00, Normalisée: 55.00 (Rattrapage)
+Étudiant 03 - Initiale: 15.00, Bonus: 17.00, Normalisée: 85.00 (Validation)
+Étudiant 04 - Initiale: 8.00, Bonus: 10.00, Normalisée: 50.00 (Rattrapage)
+Étudiant 05 - Initiale: 17.00, Bonus: 19.00, Normalisée: 95.00 (Validation)
+Étudiant 06 - Initiale: 13.00, Bonus: 15.00, Normalisée: 75.00 (Validation)
+Étudiant 07 - Initiale: 19.00, Bonus: 20.00, Normalisée: 100.00 (Validation)
+Étudiant 08 - Initiale: 10.00, Bonus: 12.00, Normalisée: 60.00 (Rattrapage)
